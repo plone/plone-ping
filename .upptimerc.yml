@@ -35,9 +35,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.plone.org
   # baseUrl: /your-repo-name
-  logoUrl: /images/icon.svg
-  favicon: /images/favicon-32x32.png
-  faviconSvg: /images/icon.svg
+  logoUrl: https://status.plone.org/images/icon.svg
+  favicon: https://status.plone.org/images/favicon-32x32.png
+  faviconSvg: https://status.plone.org/images/icon.svg
   name: Plone Status Page
   introTitle: "**Plone Status Page**"
   introMessage: Status of services and sites maintained by the Plone community. This solution is built using [Upptime](https://upptime.js.org/).
