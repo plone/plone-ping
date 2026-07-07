@@ -35,15 +35,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.plone.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/plone/plone-ping/master/static/img/icon.svg
+  logoUrl: /images/icon.svg
+  favicon: /images/favicon-32x32.png
+  faviconSvg: /images/icon.svg
   name: Plone Status Page
-  introTitle: "**Plone Status Page** reports the status of Plone services."
-  introMessage: This solution is built using [Upptime](https://upptime.js.org/) and is maintained by the Plone community.
+  introTitle: "**Plone Status Page**"
+  introMessage: Status of services and sites maintained by the Plone community. This solution is built using [Upptime](https://upptime.js.org/).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Plone Foundation
+      href: https://plone.org/foundation
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
