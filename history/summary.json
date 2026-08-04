@@ -139,7 +139,7 @@
     "slug": "plone-conference-2026",
     "status": "up",
     "uptime": "96.18%",
-    "uptimeDay": "46.11%",
+    "uptimeDay": "47.61%",
     "uptimeWeek": "84.73%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "96.18%",
@@ -194,17 +194,17 @@
     "url": "https://demo.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.72%",
-    "time": 727,
-    "timeDay": 1048,
-    "timeWeek": 712,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "time": 726,
+    "timeDay": 856,
+    "timeWeek": 708,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2026-07-07": 42,
       "2026-07-09": 53,
@@ -217,7 +217,8 @@
       "2026-07-27": 62,
       "2026-07-30": 31,
       "2026-08-01": 24,
-      "2026-08-02": 75
+      "2026-08-02": 75,
+      "2026-08-04": 0
     }
   }
 ]
