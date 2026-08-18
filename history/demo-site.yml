@@ -1,7 +1,7 @@
 url: https://demo.plone.org
-status: up
-code: 200
-responseTime: 924
-lastUpdated: 2026-08-17T23:07:22.476Z
+status: down
+code: 404
+responseTime: 1267
+lastUpdated: 2026-08-18T12:51:11.926Z
 startTime: 2026-07-07T00:33:29.422Z
 generator: Upptime <https://github.com/upptime/upptime>
