@@ -13,7 +13,7 @@
     "time": 1051,
     "timeDay": 534,
     "timeWeek": 1060,
-    "timeMonth": 1158,
+    "timeMonth": 1175,
     "timeYear": 1051,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 605,
     "timeDay": 455,
     "timeWeek": 667,
-    "timeMonth": 668,
+    "timeMonth": 675,
     "timeYear": 605,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 290,
     "timeDay": 242,
     "timeWeek": 272,
-    "timeMonth": 333,
+    "timeMonth": 336,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 406,
     "timeDay": 246,
     "timeWeek": 400,
-    "timeMonth": 406,
+    "timeMonth": 408,
     "timeYear": 406,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 997,
     "timeDay": 805,
     "timeWeek": 1187,
-    "timeMonth": 1022,
+    "timeMonth": 1023,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2026-07-16": 44
@@ -138,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/2026.ploneconf.org.ico",
     "slug": "plone-conference-2026",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 842,
     "timeDay": 440,
     "timeWeek": 996,
-    "timeMonth": 879,
+    "timeMonth": 894,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2026-08-03": 807,
@@ -167,7 +167,7 @@
     "time": 1046,
     "timeDay": 538,
     "timeWeek": 1117,
-    "timeMonth": 1038,
+    "timeMonth": 1044,
     "timeYear": 1046,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "time": 1118,
     "timeDay": 459,
     "timeWeek": 979,
-    "timeMonth": 1073,
+    "timeMonth": 1082,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2026-08-14": 17,
@@ -197,17 +197,17 @@
     "url": "https://demo.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
-    "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "97.25%",
-    "time": 724,
-    "timeDay": 444,
-    "timeWeek": 842,
-    "timeMonth": 762,
-    "timeYear": 724,
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "97.27%",
+    "time": 719,
+    "timeDay": 320,
+    "timeWeek": 777,
+    "timeMonth": 755,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2026-07-07": 42,
       "2026-07-09": 53,
@@ -229,7 +229,8 @@
       "2026-08-09": 23,
       "2026-08-11": 54,
       "2026-08-10": 432,
-      "2026-08-18": 58
+      "2026-08-18": 58,
+      "2026-09-07": 0
     }
   }
 ]
