@@ -85,7 +85,7 @@
     "time": 1701,
     "timeDay": 360,
     "timeWeek": 508,
-    "timeMonth": 550,
+    "timeMonth": 549,
     "timeYear": 1701,
     "dailyMinutesDown": {
       "2026-07-07": 84,
@@ -117,10 +117,10 @@
     "url": "https://plone.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/plone.org.br.ico",
     "slug": "plone-brasil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 989,
@@ -130,7 +130,7 @@
     "timeYear": 989,
     "dailyMinutesDown": {
       "2026-07-16": 44,
-      "2026-10-16": 42
+      "2026-10-16": 43
     }
   },
   {
@@ -139,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/2026.ploneconf.org.ico",
     "slug": "plone-conference-2026",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.95%",
     "time": 839,
     "timeDay": 1083,
     "timeWeek": 977,
@@ -199,11 +199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
     "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "69.55%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.67%",
+    "uptime": "97.62%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.62%",
     "time": 742,
     "timeDay": 604,
     "timeWeek": 720,
@@ -241,7 +241,7 @@
       "2026-10-11": 21,
       "2026-10-14": 19,
       "2026-10-15": 22,
-      "2026-10-16": 417
+      "2026-10-16": 485
     }
   }
 ]
