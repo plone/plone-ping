@@ -117,9 +117,9 @@
     "url": "https://plone.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/plone.org.br.ico",
     "slug": "plone-brasil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -129,7 +129,8 @@
     "timeMonth": 974,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2026-07-16": 44
+      "2026-07-16": 44,
+      "2026-10-16": 0
     }
   },
   {
@@ -198,11 +199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.80%",
+    "uptimeDay": "83.40%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "97.80%",
     "time": 742,
     "timeDay": 604,
     "timeWeek": 720,
@@ -240,7 +241,7 @@
       "2026-10-11": 21,
       "2026-10-14": 19,
       "2026-10-15": 22,
-      "2026-10-16": 0
+      "2026-10-16": 217
     }
   }
 ]
