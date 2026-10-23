@@ -102,12 +102,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 284,
     "timeDay": 296,
-    "timeWeek": 254,
+    "timeWeek": 253,
     "timeMonth": 414,
     "timeYear": 284,
     "dailyMinutesDown": {
@@ -122,11 +122,11 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "98.48%",
-    "uptimeWeek": "96.47%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.72%",
     "time": 998,
-    "timeDay": 1033,
+    "timeDay": 1020,
     "timeWeek": 1015,
     "timeMonth": 1002,
     "timeYear": 998,
@@ -146,20 +146,21 @@
     "url": "https://2026.ploneconf.org",
     "icon": "https://icons.duckduckgo.com/ip3/2026.ploneconf.org.ico",
     "slug": "plone-conference-2026",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.01%",
-    "time": 851,
-    "timeDay": 956,
-    "timeWeek": 1035,
-    "timeMonth": 881,
-    "timeYear": 851,
+    "time": 1185,
+    "timeDay": 19915,
+    "timeWeek": 5765,
+    "timeMonth": 2107,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2026-08-03": 807,
-      "2026-08-02": 733
+      "2026-08-02": 733,
+      "2026-10-23": 10
     }
   },
   {
@@ -185,9 +186,9 @@
     "url": "https://2024.ploneconf.org",
     "icon": "https://icons.duckduckgo.com/ip3/2024.ploneconf.org.ico",
     "slug": "plone-conference-2024",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -198,7 +199,8 @@
     "timeYear": 1117,
     "dailyMinutesDown": {
       "2026-08-14": 17,
-      "2026-09-02": 17
+      "2026-09-02": 17,
+      "2026-10-23": 0
     }
   },
   {
