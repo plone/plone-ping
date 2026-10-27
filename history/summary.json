@@ -119,17 +119,17 @@
     "url": "https://plone.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/plone.org.br.ico",
     "slug": "plone-brasil",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.68%",
-    "time": 1041,
-    "timeDay": 1492,
-    "timeWeek": 1189,
-    "timeMonth": 1078,
-    "timeYear": 1041,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.67%",
+    "time": 1042,
+    "timeDay": 1452,
+    "timeWeek": 1193,
+    "timeMonth": 1081,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2026-07-16": 44,
       "2026-10-16": 77,
@@ -141,7 +141,7 @@
       "2026-10-22": 87,
       "2026-10-24": 54,
       "2026-10-25": 17,
-      "2026-10-27": 0
+      "2026-10-27": 14
     }
   },
   {
