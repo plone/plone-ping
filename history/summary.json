@@ -76,11 +76,11 @@
     "url": "https://jenkins.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.plone.org.ico",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 2753,
     "timeDay": 43124,
@@ -92,7 +92,7 @@
       "2026-07-08": 72,
       "2026-07-11": 22,
       "2026-07-12": 21,
-      "2026-11-06": 39
+      "2026-11-06": 28
     }
   },
   {
