@@ -1,7 +1,7 @@
 url: https://jenkins.plone.org
-status: down
-code: 502
-responseTime: 50751
-lastUpdated: 2026-11-08T01:24:13.570Z
+status: up
+code: 200
+responseTime: 57024
+lastUpdated: 2026-11-08T01:28:55.836Z
 startTime: 2026-07-07T00:33:21.652Z
 generator: Upptime <https://github.com/upptime/upptime>
