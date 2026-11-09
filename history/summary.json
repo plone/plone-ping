@@ -76,17 +76,17 @@
     "url": "https://jenkins.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.plone.org.ico",
     "slug": "ci-jenkins",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.81%",
-    "time": 5678,
-    "timeDay": 39058,
-    "timeWeek": 32563,
-    "timeMonth": 15160,
-    "timeYear": 5678,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.78%",
+    "time": 5962,
+    "timeDay": 41003,
+    "timeWeek": 33335,
+    "timeMonth": 15907,
+    "timeYear": 5962,
     "dailyMinutesDown": {
       "2026-07-07": 84,
       "2026-07-08": 72,
@@ -94,7 +94,7 @@
       "2026-07-12": 21,
       "2026-11-06": 44,
       "2026-11-08": 76,
-      "2026-11-09": 31
+      "2026-11-09": 72
     }
   },
   {
