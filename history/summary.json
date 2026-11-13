@@ -193,21 +193,21 @@
     "url": "https://2024.ploneconf.org",
     "icon": "https://icons.duckduckgo.com/ip3/2024.ploneconf.org.ico",
     "slug": "plone-conference-2024",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1124,
-    "timeDay": 987,
-    "timeWeek": 1102,
-    "timeMonth": 1171,
-    "timeYear": 1124,
+    "time": 1125,
+    "timeDay": 1095,
+    "timeWeek": 1121,
+    "timeMonth": 1175,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-08-14": 17,
       "2026-09-02": 17,
-      "2026-11-13": 0
+      "2026-11-13": 7
     }
   },
   {
