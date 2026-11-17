@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.plone.org.ico",
     "slug": "ci-jenkins",
     "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "82.85%",
-    "uptimeMonth": "95.62%",
-    "uptimeYear": "98.90%",
+    "uptime": "98.89%",
+    "uptimeDay": "2.36%",
+    "uptimeWeek": "82.75%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "98.89%",
     "time": 9125,
     "timeDay": 13285,
     "timeWeek": 25446,
@@ -98,7 +98,7 @@
       "2026-11-11": 25,
       "2026-11-16": 949,
       "2026-11-15": 12,
-      "2026-11-17": 743
+      "2026-11-17": 753
     }
   },
   {
@@ -217,17 +217,17 @@
     "url": "https://demo.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
-    "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "98.02%",
-    "time": 723,
-    "timeDay": 735,
-    "timeWeek": 689,
-    "timeMonth": 680,
-    "timeYear": 723,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "98.01%",
+    "time": 724,
+    "timeDay": 802,
+    "timeWeek": 699,
+    "timeMonth": 689,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2026-07-07": 42,
       "2026-07-09": 53,
@@ -268,7 +268,7 @@
       "2026-10-30": 18,
       "2026-11-08": 17,
       "2026-11-09": 15,
-      "2026-11-17": 0
+      "2026-11-17": 10
     }
   }
 ]
