@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.plone.org.ico",
     "slug": "ci-jenkins",
     "status": "down",
-    "uptime": "97.44%",
+    "uptime": "97.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.51%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "97.44%",
+    "uptimeWeek": "54.42%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "97.43%",
     "time": 9030,
     "timeDay": 250,
     "timeWeek": 25650,
@@ -98,7 +98,7 @@
       "2026-11-11": 25,
       "2026-11-16": 949,
       "2026-11-15": 12,
-      "2026-11-19": 744,
+      "2026-11-19": 753,
       "2026-11-18": 1440,
       "2026-11-17": 1440
     }
@@ -219,17 +219,17 @@
     "url": "https://demo.plone.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.plone.org.ico",
     "slug": "demo-site",
-    "status": "down",
+    "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "98.04%",
-    "time": 719,
-    "timeDay": 537,
-    "timeWeek": 649,
-    "timeMonth": 682,
-    "timeYear": 719,
+    "time": 720,
+    "timeDay": 556,
+    "timeWeek": 636,
+    "timeMonth": 685,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2026-07-07": 42,
       "2026-07-09": 53,
@@ -270,7 +270,7 @@
       "2026-10-30": 18,
       "2026-11-08": 17,
       "2026-11-09": 15,
-      "2026-11-19": 16
+      "2026-11-19": 24
     }
   }
 ]
